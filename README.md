@@ -1,4 +1,4 @@
-<h1 align="center">你好，我是慕容常恭 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"></h1>
+<h1 align="center">你好，我是慕容长恭 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"></h1>
 
 <p align="center">
   <b>RoboMaster 天钺 Solaris 战队建立者之一 · 视觉组组长</b><br>
@@ -8,6 +8,10 @@
 <p align="center">
   <a href="https://hortonwen.github.io/"><img alt="博客" src="https://img.shields.io/badge/个人博客-HortonWen-24292e?style=for-the-badge&logo=astro&logoColor=white"></a>
   <a href="https://github.com/SEU-CX-RM-Solaris"><img alt="组织" src="https://img.shields.io/badge/战队组织-Solaris-E2231A?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <img alt="访问量" src="https://komarev.com/ghpvc/?username=HortonWen&style=for-the-badge&color=blue">
 </p>
 
 ---
@@ -40,11 +44,15 @@
 
 ### GitHub 数据
 
-<p align="center">
-  <img alt="Followers" src="https://img.shields.io/github/followers/HortonWen?style=for-the-badge&logo=github&label=关注者">
-  <img alt="博客 Stars" src="https://img.shields.io/github/stars/HortonWen/HortonWen.github.io?style=for-the-badge&logo=github&label=博客%20Stars">
-  <img alt="开源目录 Stars" src="https://img.shields.io/github/stars/SEU-CX-RM-Solaris/rm-open-source-leaderboard?style=for-the-badge&logo=github&label=开源目录%20Stars">
-</p>
+| <img src="https://git-stats.goldbro.top/api?username=HortonWen" alt="GitHub Stats"> | <img src="https://git-streak.goldbro.top/?user=HortonWen" alt="GitHub Streak"> |
+|---|---|
+
+### 3D 贡献图
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg">
+  <img src="profile-3d-contrib/profile-green.svg" alt="GitHub 3D Contributions">
+</picture>
 
 ### 我的项目
 
