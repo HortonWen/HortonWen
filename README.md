@@ -44,7 +44,7 @@
 
 ### GitHub 数据
 
-| <img src="https://git-stats.goldbro.top/api?username=HortonWen" alt="GitHub Stats"> | <img src="https://git-streak.goldbro.top/?user=HortonWen" alt="GitHub Streak"> |
+| <img src="https://git-stats.goldbro.top/api?username=HortonWen&v=2" alt="GitHub Stats"> | <img src="https://git-streak.goldbro.top/?user=HortonWen&v=2" alt="GitHub Streak"> |
 |---|---|
 
 ### 3D 贡献图
