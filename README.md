@@ -41,12 +41,9 @@
 ### GitHub 数据
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HortonWen&show_icons=true&theme=tokyonight&locale=cn&include_all_commits=true&hide_border=true">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HortonWen&layout=compact&theme=tokyonight&locale=cn&hide_border=true">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HortonWen&theme=tokyonight&no-frame=true&row=1&column=6">
+  <img alt="Followers" src="https://img.shields.io/github/followers/HortonWen?style=for-the-badge&logo=github&label=关注者">
+  <img alt="博客 Stars" src="https://img.shields.io/github/stars/HortonWen/HortonWen.github.io?style=for-the-badge&logo=github&label=博客%20Stars">
+  <img alt="开源目录 Stars" src="https://img.shields.io/github/stars/SEU-CX-RM-Solaris/rm-open-source-leaderboard?style=for-the-badge&logo=github&label=开源目录%20Stars">
 </p>
 
 ### 我的项目
